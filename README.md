@@ -1,19 +1,28 @@
-# Unit-1-Homework-Assignment-FinTech-Case-Study
-
-# TITLE
+# Wealthfront Robo-Advisign Cast Study
 
 ## Overview and Origin
 
 * Name of company
 
+  Wealthfront Corporation
+
 * When was the company incorporated?
+
+  2008
 
 * Who are the founders of the company?
 
+  Founded by Andy Rachleff and Dan Carroll in 2008.
+
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+  After a successful career as the co-founder of VC firm Benchmark Capital, Wealthfront co-founder Andy Rachleff kicked back into a relaxed retirement. He saw a need to democratize access to sophisticated investment products. The two realized they not only shared a mission — to help democratize access to sophisticated financial advice — they agreed that software could unlock great investing for everyone. So they gathered some of the best technical minds they knew.
 
+That was the day Wealthfront was formed.
+
+* How is the company funded? How much funding have they received?
+  
+  
 
 ## Business Activities:
 
