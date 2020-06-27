@@ -77,4 +77,6 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
   
   The main technology it would utilize would be on the mobile platform. Robinhood, for example, introduced fractional shares this year and the ease-of-use on their mobile applicatin has drastically grown their client size and usability of choosing which stocks to pursue based on the balance in your account. A reliable and intuitive mobile application platform would bring in their niche client, millenials, who value easy-to-use and interactive financial platforms via their cellphone.
 
+## Works Cited
 
+[Link](https://www.wealthfront.com/)
