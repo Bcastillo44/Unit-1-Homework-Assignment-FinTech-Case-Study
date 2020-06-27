@@ -13,7 +13,7 @@
 •	Series D - $64,000,000
 •	Series E - $75,000,000
 
- 	Wealthfront’s overall goal is to maximize gains with algorithmic portfolio management and asset allocation while minimizing tax payments for their clients. Though you may not see short-term capital gains, you’ll get your money’s worth come tax time from Wealthfront’s daily tax-loss harvesting — a service available to all investors. Their clients range from investors with small balances or beginning investors to investors with balances of $100,000 or more. New
+  Wealthfront’s overall goal is to maximize gains with algorithmic portfolio management and asset allocation while minimizing tax payments for their clients. Though you may not see short-term capital gains, you’ll get your money’s worth come tax time from Wealthfront’s daily tax-loss harvesting — a service available to all investors. Their clients range from investors with small balances or beginning investors to investors with balances of $100,000 or more. New
  investors benefit from expert advice, and at the other end of the spectrum, Wealthfront’s higher-balance users grow more wealth and pay fewer taxes through their patented PassivePlus plan. Wealthfront does the work for you using Modern Portfolio Theory, so you won’t have to select or keep up with individual securities. The planning arm of Wealthfront is designed to consider your financial big picture. The “Path” feature balances multiple savings goals crunch the numbers, and help you prioritize.
  	PassivePlus® is their suite of investment strategies grounded in academic research and brought to life by their software. Their technology has made them available to a new generation of investors and their software automatically looks for opportunities to execute these strategies.  Their software readjusts as needed through a technique called threshold-based rebalancing; once an asset crosses a predetermined “threshold” Wealthfront re-allocates your investments. They’ll also move assets around when the market fluctuates, dividends get reinvested, or money is deposited or withdrawn. You can change your risk score, though it takes time for Wealthfront to switch your assets accordingly.
 
@@ -56,11 +56,11 @@ Core Metrics
 
    Portfolio Management - Modern Portfolio Theory
    
- 	Wealthfront aims to deliver an automated investment management service that maximizes the long-term, net-of-fee, after-tax, real investment return for each client’s particular tolerance for risk.  Optimal portfolios are identified using Modern Portfolio Theory (MPT) and combine a broad set of asset classes, each usually represented by a low-cost, passive ETF.
+  Wealthfront aims to deliver an automated investment management service that maximizes the long-term, net-of-fee, after-tax, real investment return for each client’s particular tolerance for risk.  Optimal portfolios are identified using Modern Portfolio Theory (MPT) and combine a broad set of asset classes, each usually represented by a low-cost, passive ETF.
    
    Asset Allocation 
    
- 	Wealthfront determines the optimal mix of our chosen asset classes by using Mean-Variance Optimization (Markowitz, 1952), the foundation of Modern Portfolio Theory. The output of the optimization is a collection of portfolios that generate the maximum return at each level of targeted risk, or equivalently, minimize the level of risk for a specific expected return. Collectively these portfolios form the (mean-variance) efficient frontier.
+  Wealthfront determines the optimal mix of our chosen asset classes by using Mean-Variance Optimization (Markowitz, 1952), the foundation of Modern Portfolio Theory. The output of the optimization is a collection of portfolios that generate the maximum return at each level of targeted risk, or equivalently, minimize the level of risk for a specific expected return. Collectively these portfolios form the (mean-variance) efficient frontier.
    
    Tax-loss Harvesting
    
