@@ -1,4 +1,6 @@
-# Case Study: Wealthfront: Your easiest financial decision
+# Case Study - 
+
+  Wealthfront - Your Easiest Financial Decision
 
 ## Overview and Origin
 
