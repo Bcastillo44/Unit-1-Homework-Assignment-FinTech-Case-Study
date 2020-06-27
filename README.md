@@ -92,3 +92,28 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
 
 Crunchbase
 [https://www.crunchbase.com/organization/wealthfront#section-overview](https://www.crunchbase.com/organization/wealthfront#section-overview)
+
+'The Future of WealthTech', Maria Cheng, Feb 19, 2019.
+[https://www.forbes.com/sites/margueritacheng/2019/02/19/the-future-of-wealthtech/#108a339d35e6](https://www.forbes.com/sites/margueritacheng/2019/02/19/the-future-of-wealthtech/#108a339d35e6)
+
+'Robo-Advisors 2019: Still Waiting for the Revolution While Robo-Advisors have come a long way, they are far from mainstream', By THERESA W. CAREY
+ Updated Sep 24, 2019
+ [https://www.investopedia.com/robo-advisors-2019-where-have-all-the-assets-gone-4767826](https://www.investopedia.com/robo-advisors-2019-where-have-all-the-assets-gone-4767826)
+ 
+ Deloitte:10 Disruptive trends in wealth management
+ [https://www2.deloitte.com/content/dam/Deloitte/us/Documents/strategy/us-cons-disruptors-in-wealth-mgmt-final.pdf](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/strategy/us-cons-disruptors-in-wealth-mgmt-final.pdf)
+ 
+ Accenture: TheRise of Robo-Advice
+ [https://www.accenture.com/_acnmedia/pdf-2/accenture-wealth-management-rise-of-robo-advice.pdf](https://www.accenture.com/_acnmedia/pdf-2/accenture-wealth-management-rise-of-robo-advice.pdf)
+ 
+ 'Robo Advisors: quantitative methods inside the robots' Mikhail Beketov, Kevin Lehmann & Manuel Wittke, Published: 27 September 2018
+ [https://link.springer.com/article/10.1057/s41260-018-0092-9](https://link.springer.com/article/10.1057/s41260-018-0092-9)
+ 
+ '14 Robo Advisers: Which Is the Best for You?', Robo advice is ready when and where you want it. by: Nellie S. Huang January 28, 2020
+ [https://www.kiplinger.com/slideshow/investing/t023-s002-14-robo-advisers-which-is-the-best-for-you/index.html](https://www.kiplinger.com/slideshow/investing/t023-s002-14-robo-advisers-which-is-the-best-for-you/index.html)
+ 
+ 'What Is a Robo-Advisor?', By JAKE FRANKENFIELD Reviewed By GORDON SCOTT Updated Mar 28, 2020
+[https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
+
+'Robo Advisor – Introduction to automated investing with innovative FinTech companies', BY RICHARD BOWMAN - LAST UPDATED ON MAY 23, 2019
+[https://catanacapital.com/blog/robo-advisor-introduction-automated-investing/](https://catanacapital.com/blog/robo-advisor-introduction-automated-investing/)
