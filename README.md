@@ -1,10 +1,10 @@
-# Case Study: Wealthfront Robo-Advising
+# Case Study: Wealthfront: Your easiest financial decision
 
 ## Overview and Origin
 
 * Name of company
 
-  Wealthfront Corporation
+  Wealthfront Corporation 
 
 * When was the company incorporated?
 
@@ -71,6 +71,27 @@ Wealthfront provides data-driven, actionable recommendations to improve net-of-f
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
+
+  Top 10 Robo-Advisors by Assets Under Management
+Assets under management, in millions, as of June 30, 2019.
+
+Robo-Advisor	AUM in Millions (US$)
+1	Vanguard Vanguard Personal Advisory Service	140,000
+2	Schwab Schwab Intelligent Portfolios	41,000
+3	Wealthfront Wealthfront	20,000
+4	TDA TD Ameritrade Essential & Selective Portfolios	19,900
+5	Betterment Betterment	18,000
+6	Personal cpaital Personal Capital	10,000
+7	Etrade ETrade Core Portfolios	6,200
+8	Wealthsimple WealthSimple	3,000
+9	FutureAdvisor FutureAdvisor	1,200
+10	M1 M1 Finance	500
+11	Interactive Advisors Interactive Advisors	83
+Excludes robo-advisors who do not publicly report AUM.
+Source: Firms' ADVs and communications from companies
+Get the data  Add this chart to your site
+
+<iframe src="//datawrapper.dwcdn.net/uyxkk/4/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="497" height="596"></iframe>
 
 
 ## Results
