@@ -48,9 +48,7 @@ Source: Firms' ADVs and communications from companies - Investopedia
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-There are two financial innovations that are generally considered to have been clearly positive for society. One is the ATM, and the other is passive investing. Passive investors simply pay a very modest fee to buy a broad, predetermined, diversified basket of stocks. The biggest passive managers, Vanguard and Blackrock, are now the undisputed giants of the asset-management space, each controlling trillions of dollars. Led by Wealthfront and Betterment, these firms are young, mobile-first, and backed by millions of venture capital dollars. 
+   There are two financial innovations that are generally considered to have been clearly positive for society. One is the ATM, and the other is passive investing. Passive investors simply pay a very modest fee to buy a broad, predetermined, diversified basket of stocks. The biggest passive managers, Vanguard and Blackrock, are now the undisputed giants of the asset-management space, each controlling trillions of dollars. Led by Wealthfront and Betterment, these firms are young, mobile-first, and backed by millions of venture capital dollars. 
 
 Core Metrics 
 
@@ -73,19 +71,7 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-
-
-
-* Why do you think that offering this product or service would benefit the company?
-
-
-
-* What technologies would this additional product or service utilize?
-
-
-
-* Why are these technologies appropriate for your solution?
+  If I were to advise the company, I would suggest they lower their minimum balance requirement to $0. Though $500.00 is still among the lowest minimum requirements compared with the competitors, a $0 minimum I believe attracts more beginner investors that may not have $500 laying around but want to pursue a robo-advisor with a small amount and build up deposits over time. They have found their niche client, and they should do all they can to hold those clients as long as they can. The other product I would advise that could also help with the lower account minimum are the introduction of buying fractional shares into their stock portfolio features. Fractional shar buying has become a huge advantage for first-time investors that don’t have large amounts of capital to invest in some of the strongest and reliable companies that have a large share price, for example Amazon. This allows more entrants into the market, and also creates a sense of ownership on the client side that they can buy pieces of companies that may have large shar prices but are companies that can withstand strong financial headwinds and large market fluctuations.
+  The main technology it would utilize would be on the mobile platform. Robinhood, for example, introduced fractional shares this year and the ease-of-use on their mobile applicatin has drastically grown their client size and usability of choosing which stocks to pursue based on the balance in your account. A reliable and intuitive mobile application platform would bring in their niche client, millenials, who value easy-to-use and interactive financial platforms via their cellphone.
 
 
