@@ -20,7 +20,7 @@
 Above this basic level of service, several robo-advisors offer tax-loss harvesting services for portfolios that are not tax-advantaged in some way. Many now offer tax optimization strategies standard, but keep in mind that tax-loss harvesting is not always beneficial—it all depends on your tax situation. Wealthfront is the only robo-advisor who offers both investment management and financial planning. Clients receive a personalized, globally diversified investment portfolio that is managed for them when they open an account. Wealthfront provides data-driven, actionable recommendations to improve net-of-fee, after-tax, risk-adjusted returns. With an annual advisory fee of 0.25%, users can monitor their real-time investment performance, review recent transactions, receive financial advice, and manage their deposits.  
 
 
-## Landscape:
+## Landscape
 
   Robo-Advising is a highly popular automated financial service that uses algorithms and machine learning to offer investment advice and management to users. Thus, they not only consider investment opportunities, but they also respect a user’s goals, income, marital status, and risk aversion, among other factors. 
 
