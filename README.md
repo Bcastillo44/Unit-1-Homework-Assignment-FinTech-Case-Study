@@ -64,11 +64,15 @@ Their software readjusts as needed through a technique called threshold-based re
 
 * What domain of the financial industry is the company in?
 
-  Robo-Advising: Wealthfront is the only robo advisor who offers both investment management and financial planning. Clients receive a personalized, globally-diversified investment portfolio that is managed for them when they open an account.
+  Robo-Advising: highly popular automated services that use algorithms and machine learning to offer investment advice and management to their users. Thus, they not only consider investment opportunities, but they also respect a user’s goals, income, marital status, and risk aversion, among other factors.
+  
+  Wealthfront is the only robo advisor who offers both investment management and financial planning. Clients receive a personalized, globally-diversified investment portfolio that is managed for them when they open an account.
 
 Wealthfront provides data-driven, actionable recommendations to improve net-of-fee, after-tax, risk-adjusted returns. With an annual advisory fee of 0.25%, users can monitor their real-time investment performance, review recent transactions, receive financial advice, and manage their deposits.  
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+  For those unaware, robo-advisors are an emerging sector in wealth management that package Individual Retirement Accounts (IRAs), cash management and even some financial planning within a simple application, often on mobile devices. By Q4 of 2019, the top five robo-advisors had a combined AUM of 187.5BB with Schwab (37BB) charging a 0% management fee by exclusively marketing their own funds. Other services like Betterment have tiered services: 0.25% of AUM for accounts valued up to $100k or 0.4% for assets over $100k for a premium plan that provides access to Certified Financial Planners. Consulting firm PricewaterhouseCoopers speculates that the market can increase by over 800BB in the next five years. (2. Asset Management 2020: A Brave New World, PwC.) Niche investing within the robo-advisor space is becoming an increasingly popular trend with services rendering portfolios that are themed towards specific sectors, such as tech-takeout targets, defense and those focusing on dividend yield. The most significant opportunity within the robo-advisor space may be the integration of Socially Responsible Investing (SRI) and providing the architecture that allows users assign individual preferences to their portfolios. Bank of America has reported that SRI is a priority for at least half of millennials regardless of net worth. (3. 2013 U.S. Trust Insights On Wealth and Worth, U.S. Trust.) 
 
 * What are the other major companies in this domain?
 
@@ -89,7 +93,7 @@ Robo-Advisor	AUM in Millions (US$)
 11	Interactive Advisors Interactive Advisors	83
 Excludes robo-advisors who do not publicly report AUM.
 Source: Firms' ADVs and communications from companies
-Get the data  Add this chart to your site
+Investopedia
 
 <iframe src="//datawrapper.dwcdn.net/uyxkk/4/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="497" height="596"></iframe>
 
@@ -98,7 +102,11 @@ Get the data  Add this chart to your site
 
 * What has been the business impact of this company so far?
 
+
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -107,8 +115,16 @@ Get the data  Add this chart to your site
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+
+
 * Why do you think that offering this product or service would benefit the company?
+
+
 
 * What technologies would this additional product or service utilize?
 
+
+
 * Why are these technologies appropriate for your solution?
+
+
