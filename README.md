@@ -53,7 +53,7 @@ Source: Firms' ADVs and communications from companies - Investopedia
 
    There are two financial innovations that are generally considered to have been clearly positive for society. One is the ATM, and the other is passive investing. Passive investors simply pay a very modest fee to buy a broad, predetermined, diversified basket of stocks. The biggest passive managers, Vanguard and Blackrock, are now the undisputed giants of the asset-management space, each controlling trillions of dollars. Led by Wealthfront and Betterment, these firms are young, mobile-first, and backed by millions of venture capital dollars. 
 
-Core Metrics 
+  ### Core Metrics 
 
    Portfolio Management - Modern Portfolio Theory
    
