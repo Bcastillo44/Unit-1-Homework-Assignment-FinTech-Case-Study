@@ -79,4 +79,4 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
 
 ## Works Cited
 
-[Link](https://www.wealthfront.com/)
+[https://www.wealthfront.com/](https://www.wealthfront.com/)
