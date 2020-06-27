@@ -45,6 +45,7 @@ Wealthfront is the second largest independent robo-advisor, after Betterment. An
 - FFutureAdvisor	1,200
 - M1 Finance	500
 - Interactive Advisors Interactive Advisors	83
+
 Source: Firms' ADVs and communications from companies - Investopedia
 
 
