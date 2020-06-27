@@ -1,4 +1,4 @@
-# Wealthfront Robo-Advisign Cast Study
+# Wealthfront Robo-Advisign Case Study
 
 ## Overview and Origin
 
@@ -8,7 +8,7 @@
 
 * When was the company incorporated?
 
-  2008
+  2008 and launched its service in 2011.
 
 * Who are the founders of the company?
 
@@ -22,21 +22,51 @@ That was the day Wealthfront was formed.
 
 * How is the company funded? How much funding have they received?
   
+  Wealthfront closed a $75 million round of funding in 1Q2018 to help develop new products for its growing client base. The funding was led by Tiger Global, a NYC-based hedge fund run by Chase Coleman. The company has amassed just over $12 billion in assets under management since launching in late 2011
   
+  Series A - $7,500,000
+  Series B - $20,000,000
+  Series C - $35,000,000
+  Series D - $64,000,000
+  Series E - $75,000,000
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
+  Their goal is to minimize taxes. Though you may not see short-term capital gains, you’ll get your money’s worth come tax time from Wealthfront’s daily tax-loss harvesting — a service available to all investors.
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+Investors with small balances or beginning investors
+Not every robo-advisor offers personalized portfolio management for accounts with $500 balances. And new investors benefit from expert advice.
+
+Investors with balances of $100,000 or more
+At the other end of the spectrum, Wealthfront’s higher-balance users grow more wealth and pay fewer taxes through the PassivePlus plan.
+
+Passive investors
+Wealthfront does the work for you using Modern Portfolio Theory, so you won’t have to select or keep up with individual securities.
+
+Goal setters
+The planning arm of Wealthfront is designed to consider your financial big picture. The Path feature balances multiple savings goals, crunches the numbers, and helps you prioritize.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+  PassivePlus® is our suite of investment strategies grounded in academic research and brought to life by software. We didn’t invent these strategies, but our technology has made them available to a new generation of investors.
+
+Our software automatically looks for opportunities to execute these strategies. No time, no work, no reasons left to procrastinate.
+
+Their software readjusts as needed through a technique called threshold-based rebalancing; once an asset crosses a predetermined “threshold” Wealthfront re-allocates your investments. They’ll also move assets around when the market fluctuates, dividends get reinvested, or money is deposited or withdrawn. You can change your risk score, though it takes time for Wealthfront to switch your assets accordingly.
 
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
+  Robo-Advising: Wealthfront is the only robo advisor who offers both investment management and financial planning. Clients receive a personalized, globally-diversified investment portfolio that is managed for them when they open an account.
+
+Wealthfront provides data-driven, actionable recommendations to improve net-of-fee, after-tax, risk-adjusted returns. With an annual advisory fee of 0.25%, users can monitor their real-time investment performance, review recent transactions, receive financial advice, and manage their deposits.  
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
