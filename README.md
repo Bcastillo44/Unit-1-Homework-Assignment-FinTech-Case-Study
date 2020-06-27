@@ -33,18 +33,18 @@ Wealthfront is the second largest independent robo-advisor, after Betterment. An
 
  Top 10 Robo-Advisors by Assets Under Management - Assets under management, in millions, as of June 30, 2019.
 
-•	Robo-Advisor	AUM in Millions (US$)
-•	Vanguard Vanguard Personal Advisory Service	140,000
-•	Schwab Schwab Intelligent Portfolios	41,000
-•	Wealthfront	20,000
-•	TDA TD Ameritrade Essential & Selective Portfolios	19,900
-•	Betterment	18,000
-•	Personal Capital	10,000
-•	Etrade ETrade Core Portfolios	6,200
-•	WealthSimple	3,000
-•	FFutureAdvisor	1,200
-•	M1 Finance	500
-•	Interactive Advisors Interactive Advisors	83
+- Robo-Advisor	AUM in Millions (US$)
+- Vanguard Vanguard Personal Advisory Service	140,000
+- Schwab Schwab Intelligent Portfolios	41,000
+- Wealthfront	20,000
+- TDA TD Ameritrade Essential & Selective Portfolios	19,900
+- Betterment	18,000
+- Personal Capital	10,000
+- Etrade ETrade Core Portfolios	6,200
+- WealthSimple	3,000
+- FFutureAdvisor	1,200
+- M1 Finance	500
+- Interactive Advisors Interactive Advisors	83
 Source: Firms' ADVs and communications from companies - Investopedia
 
 
