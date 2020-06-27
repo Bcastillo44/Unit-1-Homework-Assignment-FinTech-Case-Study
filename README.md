@@ -59,6 +59,8 @@ Our software automatically looks for opportunities to execute these strategies. 
 
 Their software readjusts as needed through a technique called threshold-based rebalancing; once an asset crosses a predetermined “threshold” Wealthfront re-allocates your investments. They’ll also move assets around when the market fluctuates, dividends get reinvested, or money is deposited or withdrawn. You can change your risk score, though it takes time for Wealthfront to switch your assets accordingly.
 
+Above this basic level of service, several robo-advisors offer tax-loss harvesting services for portfolios that are not tax-advantaged in some way. Many now offer tax optimization strategies standard, but keep in mind that tax-loss harvesting is not always beneficial—it all depends on your tax situation.
+
 
 ## Landscape:
 
@@ -95,20 +97,37 @@ Excludes robo-advisors who do not publicly report AUM.
 Source: Firms' ADVs and communications from companies
 Investopedia
 
-<iframe src="//datawrapper.dwcdn.net/uyxkk/4/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="497" height="596"></iframe>
 
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-
+That said, there are two financial innovations that are generally considered to have been clearly positive for society. One is the ATM, for reasons which should be self-explanatory. The other is passive investing. Rather than pay a financial professional large amounts of money to pick securities for them, passive investors simply pay a very modest fee to buy a broad, predetermined, diversified basket of stocks. It’s easier, it’s much cheaper, and it almost always outperforms the active investors over the long term. The biggest passive managers, Vanguard and Blackrock, are now the undisputed giants of the asset-management space, each controlling trillions of dollars. Led by Wealthfront and Betterment, these firms are young, mobile-first, and backed by millions of venture capital dollars. They know where the puck is headed (millennials investing passively), they’re up to speed on all the latest behavioral economics, and they can use modern technology to make it easier than ever to just hand your money over, answer a few questions about your risk appetite, and sit back, safe in the knowledge that no one’s going to be gambling your money away.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-
+   Portfolio Management - Modern Portfolio Theory
+   
+    Wealthfront aims to deliver an automated investment management service that maximizes the long-term, net-of-fee, after-tax, real investment return for each client’s particular tolerance for risk.  Optimal portfolios are identified using Modern Portfolio Theory (MPT) and combine a broad set of asset classes, each usually represented by a low-cost, passive ETF.
+   
+   Asset Allocation 
+   
+   Wealthfront determines the optimal mix of our chosen asset classes by using Mean-Variance Optimization (Markowitz, 1952), the foundation of Modern Portfolio Theory. The output of the optimization is a collection of portfolios that generate the maximum return at each level of targeted risk, or equivalently, minimize the level of risk for a specific expected return. Collectively these portfolios form the (mean-variance) efficient frontier.
+   
+   Tax-loss Harvesting
+   
+   For taxable accounts, Wealthfront offers the Wealthfront daily tax-loss harvesting service for no additional charge. We monitor your portfolio daily to look for opportunities to harvest losses on the ETFs that represent each asset class in your portfolio. Under the right circumstances we will sell one of your ETFs that is trading at a loss and replace it with an alternative ETF that tracks a different, but highly correlated index to maintain the risk and return characteristics of your portfolio. 
 
 * How is your company performing relative to competitors in the same domain?
+
+  The best robo-advisors offer easy account setup, robust goal planning, account services, portfolio management, and security features, attentive customer service, comprehensive education, and low fees.
+  
+  The popularity of robo-advisors has not been lost on major players in the financial services industry. Fidelity Investments has forged an arrangement with Betterment, one of the oldest (founded in 2008) robo-advisors; the human advisors on Fidelity's team can offer a version of Betterment's professional Registered Investment Advisor platform to their clients. Fidelity has inked a deal with LearnVest as well.
+
+Vanguard has its own version of a low-cost robo-advisor, as does Charles Schwab Corp. Schwab Intelligent Portfolios raised a stir when it launched its no-fee service in 2017. Schwab plans to make money on the assets under management ($5,000 is the minimum portfolio size).
+
+When considering a robo-advisor, affiliations with major firms like Fidelity, Vanguard, or Schwab might be something to consider. These companies have the money to invest and the time to allow these services to grow. Additionally, as your needs change or if you desire a more personal touch, you will be positioned to transition seamlessly to other services offered by these firms.
 
 
 ## Recommendations
