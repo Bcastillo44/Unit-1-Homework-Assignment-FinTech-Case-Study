@@ -80,3 +80,15 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
 ## Works Cited
 
 [https://www.wealthfront.com/](https://www.wealthfront.com/)
+
+'Wealthfront Review: Low Cost Robo Investing and Financial Planning', Written byKevin Mercadante|Modified date: June 23, 2020
+[https://www.doughroller.net/investing/robo-advisor-wealthfront-review/](https://www.doughroller.net/investing/robo-advisor-wealthfront-review/)
+
+'Wealthfront Review: Affordable diversified investment portfolios with terrific planning tools' Reviewed By THERESA W. CAREY Updated Jun 1, 2020
+[https://www.investopedia.com/wealthfront-review-4587933](https://www.investopedia.com/wealthfront-review-4587933)
+
+'Wealthfront Review 2020 – Improving on Passive Investing',  Larry LudwigMay 25, 2020
+[https://investorjunkie.com/reviews/wealthfront/] (https://investorjunkie.com/reviews/wealthfront/)
+
+Crunchbase
+[https://www.crunchbase.com/organization/wealthfront#section-overview] (https://www.crunchbase.com/organization/wealthfront#section-overview)
