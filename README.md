@@ -1,4 +1,4 @@
-# Wealthfront Robo-Advisign Case Study
+# Case Study: Wealthfront Robo-Advising
 
 ## Overview and Origin
 
@@ -22,7 +22,7 @@ That was the day Wealthfront was formed.
 
 * How is the company funded? How much funding have they received?
   
-  Wealthfront closed a $75 million round of funding in 1Q2018 to help develop new products for its growing client base. The funding was led by Tiger Global, a NYC-based hedge fund run by Chase Coleman. The company has amassed just over $12 billion in assets under management since launching in late 2011
+  Wealthfront is funded by 38 investors. DAG Ventures and Spark Capital are the most recent investors.
   
   Series A - $7,500,000
   Series B - $20,000,000
