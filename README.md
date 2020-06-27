@@ -88,7 +88,7 @@ When considering a robo-advisor, affiliations with major firms like Fidelity, Va
 [https://www.investopedia.com/wealthfront-review-4587933](https://www.investopedia.com/wealthfront-review-4587933)
 
 'Wealthfront Review 2020 – Improving on Passive Investing',  Larry LudwigMay 25, 2020
-[https://investorjunkie.com/reviews/wealthfront/] (https://investorjunkie.com/reviews/wealthfront/)
+[https://investorjunkie.com/reviews/wealthfront/](https://investorjunkie.com/reviews/wealthfront/)
 
 Crunchbase
-[https://www.crunchbase.com/organization/wealthfront#section-overview] (https://www.crunchbase.com/organization/wealthfront#section-overview)
+[https://www.crunchbase.com/organization/wealthfront#section-overview](https://www.crunchbase.com/organization/wealthfront#section-overview)
